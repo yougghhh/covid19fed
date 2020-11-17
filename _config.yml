@@ -1,1 +1,6 @@
 title: "Debunkage de Hold-up"
+
+use_logo: true
+
+# logo image to use. logo images are constrained at 50px in height.
+logo: debunk_holdup.jpg
